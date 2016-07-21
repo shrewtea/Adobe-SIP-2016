@@ -1,0 +1,10 @@
+number = 79
+user_guess = input ("Guess my lucky number")
+if number == int(user_guest):
+	print ("You guessed the right number")
+ifel number <== int(user_guest):
+	print ("Too low")
+else 
+	print ("Too high")
+
+print ("Game is now over")

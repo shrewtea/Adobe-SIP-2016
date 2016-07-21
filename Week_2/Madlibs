@@ -1,0 +1,4 @@
+print ("Welcome to Madlips")
+noun = input ("Pick a random noun")
+verb = input ("Pick a random verb")
+adjective = input ("Pick a random adjective")
